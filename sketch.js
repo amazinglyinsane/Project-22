@@ -42,7 +42,7 @@ function draw() {
 
   Engine.update(engine);
 
- display();
+ playerArcher.display();
 
   // Title
   fill("#FFFF");
